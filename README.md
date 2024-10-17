@@ -53,6 +53,15 @@ volumes:
   ollama:
 ```
 
+## Mine başlatma 
+```
+docker compose up -d
+```
+
+## Log kontrol 
+```
+docker compose up -d
+```
 
 
 
