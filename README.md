@@ -60,7 +60,7 @@ docker compose up -d
 
 ## Log kontrol 
 ```
-docker compose up -d
+docker compose logs -fn 100
 ```
 
 
